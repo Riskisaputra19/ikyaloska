@@ -23,7 +23,7 @@
 
 ```bash
 > git clone https://github.com/KurrXd/kurr-X-trash
-> cd whatsapp-bot
+> cd kurr-X-trash
 > npm i
 ```
 ### For termux users before running the above command write this command
