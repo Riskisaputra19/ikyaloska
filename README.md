@@ -48,7 +48,7 @@ after start it you need to scan the qr
 #### Session name and options is optional
 ### Contact me
 
-- [TELEGRAM](https://t.me/justpiple)
+
 - [WHATSAPP](http://wa.me/6281220670449)
 - [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/EymjfVUattCJSGg58WPvrd)
 
