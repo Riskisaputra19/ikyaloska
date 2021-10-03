@@ -17,7 +17,13 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/justpiple/whatsapp-bot/)
 
 [![Run on Repl.it](https://repl.it/badge/github/justpiple/whatsapp-bot)](https://repl.it/github/justpiple/whatsapp-bot)
+</p>
 
+<p align="center">
+    <img src="https://i.ibb.co/7jJd9tc/20210928-235302.png">
+</p>
+<div align="center">
+<details>
 
 ### Install ⬇️
 
