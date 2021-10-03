@@ -25,6 +25,11 @@
 <div align="center">
 <details>
 
+## MeIky ##
+<p align="center">
+<a href="https://avatars.githubusercontent.com/u/79680104?s=400&u=740b4f5903235530205551ec90f372e3ec3b7c94&v=4
+</p>
+
 ### Install ⬇️
 
 ```bash
